@@ -10,7 +10,7 @@ public static void remove(int[] arr) Random rand = new Random(); int n = arr.len
 
 // until the length of array bec while(n> 0) {
 
-System.out.println("remo
+System.out.println(
 
 // removing element, i.e for (int i=pos; i<n-1; i+
 
